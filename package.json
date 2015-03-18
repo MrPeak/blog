@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cobyism/ghost-on-heroku.git"
+    "url": "git@github.com:MrPeak/blog.git"
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,
